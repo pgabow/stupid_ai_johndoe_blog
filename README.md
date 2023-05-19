@@ -17,6 +17,7 @@ Clone this project, add your environment variables (nextAuth\NotionApi).
 | `.env`				          					| Environment variables (googleAuth\nextAuth\mongoDB)       		|
 | `/src`				          					| Main source folder client/server api components  			    		|
 | `/public`          			 					| All of our static files																				|
+| `/src/pages`			           			| Api, route files 						 																  |
 | `/src/utils`			           			| Config file for SEO MetaData 																  |
 | `/src/styles`			         				| Css global styling 																						|
 | `/src/components`       					| React components    																					|
