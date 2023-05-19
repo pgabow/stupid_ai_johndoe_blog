@@ -1,6 +1,6 @@
 # Stupid AI-powered John Doe's Blog - app using the Next 13, Notion AI & Api, Kandinsky 2.1 AI model
 
-See here - https://stupidopia.vercel.app
+See here - https://stupid-ai-johndoe-blog.vercel.app
 
 ### Next.js 13 Client/Server components, metadata and search engine optimization (SEO), Notion api
 
