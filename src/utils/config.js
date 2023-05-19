@@ -1,6 +1,6 @@
 export const siteMetaData = {
   siteName: "Stupid AI Blog",
-  siteUrl: "https://",
+  siteUrl: "https://stupid-ai-johndoe-blog.vercel.app",
   authorName: "John Doe",
   twitterUserName: "@JohnDoe",
   githubUserName: "JohnDoe",

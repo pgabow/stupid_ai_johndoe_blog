@@ -22,8 +22,8 @@ Clone this project, add your environment variables (nextAuth\NotionApi).
 | `/src/components`       					| React components    																					|
 
 
-![Screenshot 1](/public/assets/present/shot1.jpg)
+![Screenshot 1](/public/assets/shot1.jpg)
 
-![Screenshot 2](/public/assets/present/shot2.jpg)
+![Screenshot 2](/public/assets/shot2.jpg)
 
-![Screenshot 3](/public/assets/present/shot3.jpg)
+![Screenshot 3](/public/assets/shot3.jpg)
