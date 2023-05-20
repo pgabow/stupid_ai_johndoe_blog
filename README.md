@@ -2,13 +2,28 @@
 
 See here - https://stupid-ai-johndoe-blog.vercel.app
 
-### Next.js 13 Client/Server components, metadata and search engine optimization (SEO), Notion api
+## Next.js 13 Client/Server components, metadata and search engine optimization (SEO), Notion api
 
-Clone this project, add your environment variables (nextAuth\NotionApi).
+### Getting Started
 
-`npm i`
+Clone this project and install dependencies :
 
-`npm run dev`
+```bash
+npm i
+# or
+yarn install
+```
+Add your environment variables (nextAuth\NotionApi)
+
+Run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
 ### Folder Structure
