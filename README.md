@@ -1,4 +1,4 @@
-# Stupid AI-powered John Doe's Blog - app using the Next 13, Notion AI & Api, Kandinsky 2.1 AI model
+# Stupid AI-powered John Doe's Blog - app using the Next 13, Next-pwa, Notion AI & Api, Kandinsky 2.1 AI model
 
 See here - https://stupid-ai-johndoe-blog.vercel.app
 
@@ -10,8 +10,10 @@ Clone this project, add your environment variables (nextAuth\NotionApi).
 
 `npm run dev`
 
+
 ### Folder Structure
  
+
 | File/Folder  	   									| Primary use    																								|
 | :-------------------------------- | :------------------------------------------------------------ |
 | `.env`				          					| Environment variables (googleAuth\nextAuth\mongoDB)       		|
@@ -23,8 +25,13 @@ Clone this project, add your environment variables (nextAuth\NotionApi).
 | `/src/components`       					| React components    																					|
 
 
+
 ![Screenshot 1](/public/assets/shot1.jpg)
 
 ![Screenshot 2](/public/assets/shot2.jpg)
 
 ![Screenshot 3](/public/assets/shot3.jpg)
+
+![Screenshot 4](/public/assets/shot4.jpg)
+
+![Screenshot 5](/public/assets/shot5.jpg)
