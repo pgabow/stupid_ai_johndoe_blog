@@ -26,12 +26,12 @@ Clone this project, add your environment variables (nextAuth\NotionApi).
 
 
 
-![Screenshot 1](/public/assets/shot1.jpg)
+![Screenshot 1](/public/assets/screenshots/shot1.jpg)
 
-![Screenshot 2](/public/assets/shot2.jpg)
+![Screenshot 2](/public/assets/screenshots/shot2.jpg)
 
-![Screenshot 3](/public/assets/shot3.jpg)
+![Screenshot 3](/public/assets/screenshots/shot3.jpg)
 
-![Screenshot 4](/public/assets/shot4.jpg)
+![Screenshot 4](/public/assets/screenshots/shot4.jpg)
 
-![Screenshot 5](/public/assets/shot5.jpg)
+![Screenshot 5](/public/assets/screenshots/shot5.jpg)
